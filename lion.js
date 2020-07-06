@@ -1,4 +1,5 @@
 //THREEJS RELATED VARIABLES
+//credit Liège from Belgium
 
 var scene,
     camera,
